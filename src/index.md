@@ -1,3 +1,7 @@
+---
+layout: base.njk
+---
+
 # Tjenamosch
 ## underrubjirk
 ### underrubjirk
