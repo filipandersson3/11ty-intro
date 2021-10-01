@@ -1,0 +1,18 @@
+$bg-color: rgb(230, 230, 230);
+
+$primary: #90ee90;
+$footerclr: rgb(206, 206, 206);
+
+$breakpoint-lg: 48rem;
+$breakpoint-md: div($breakpoint-lg, 2);
+$breakpoint-sm: div($breakpoint-lg, 4);
+
+$font-family: 'Comic Sans', sans-serif;
+
+body {
+    background-color: $bg-color;
+    color: rgb(255, 255, 255);
+}
+
+@import "components/nav";
+@import "utilities/container";
